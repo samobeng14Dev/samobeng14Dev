@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, my name is Samuel Obeng,<br>A  passionate full stack software developer mostly working with Java/Spring and JavaScript/React.<br> <br>I am more backend inclined and also experience in  MYSQL and Data Visualization with Tableau. <br><br>I anticipate working with other devs on open-source projects.           <br>
+Hello, my name is Samuel Obeng, a passionate full stack software developer mostly working with Java/Spring and JavaScript/React.<br>I am more backend inclined and also experience in  MYSQL and Data Visualization with Tableau.<br>I anticipate working with other devs on open-source projects. <br>email:samuelobeng102@gmai.com
 
 
 ## 🌐 Socials:
