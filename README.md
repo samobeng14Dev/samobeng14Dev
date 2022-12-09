@@ -10,7 +10,8 @@ Hello, my name is Samuel Obeng. A  passionate full stack software<br>developer 
 # 📊 GitHub Stats:
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=samobeng14Dev&theme=darcula&hide_border=true&include_all_commits=false&count_private=false"/>
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=samobeng14Dev&theme=darcula&hide_border=true"/><br>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=www.linkedin.com/in/samobeng14dev&theme=darcula&hide_border=true"/><br>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samobeng14Dev&theme=darcula&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
