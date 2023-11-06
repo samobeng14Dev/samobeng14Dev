@@ -12,7 +12,7 @@ Experienced Frontend Developer specializing in JavaScript, React, and TypeScript
 - **Continuous Learning:** Enthusiastic about staying up-to-date with evolving tech trends to integrate innovative solutions.
 - **Collaborative:** Adept at working within cross-functional teams to deliver high-quality projects.
 
-## 🤝 Open to Collaboration
+##  Open to Collaboration
 Passionate about collaborating with fellow developers on impactful projects. Open to sharing insights, tackling challenges, and contributing to a collective success.
 
 ## 🌐 Socials:
