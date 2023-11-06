@@ -1,13 +1,13 @@
 # About Me - Frontend Developer
 
-## 👋 Introduction
+##  Introduction
 Experienced Frontend Developer specializing in JavaScript, React, and TypeScript. Committed to creating seamless user experiences and collaborating with fellow developers to achieve outstanding results.
 
-## 🚀 Expertise
+##  Expertise
 - **JavaScript, React, TypeScript:** Proficient in building dynamic, performant web applications using the latest frontend technologies.
 - **User-Centric Design:** Dedicated to crafting interfaces that are both visually appealing and user-friendly.
 
-## 🔑 Key Attributes
+##  Key Attributes
 - **Code Quality:** Strong advocate of clean, maintainable code following industry best practices.
 - **Continuous Learning:** Enthusiastic about staying up-to-date with evolving tech trends to integrate innovative solutions.
 - **Collaborative:** Adept at working within cross-functional teams to deliver high-quality projects.
