@@ -1,19 +1,14 @@
-# About Me - Frontend Developer
+## ABOUT ME
+I'm a passionate full-stack developer with a love for building scalable web applications. With expertise in React, TypeScript, Python, and Django, I enjoy crafting seamless user experiences and solving complex problems.
 
-##  Introduction
-Experienced Frontend Developer specializing in JavaScript, React, and TypeScript. Committed to creating seamless user experiences and collaborating with fellow developers to achieve outstanding results.
+## WHAT I DO
+Frontend magic with React and TypeScript | Backend solutions with Python and Django Rest Framework
 
-##  Expertise
-- **JavaScript, React, TypeScript:** Proficient in building dynamic, performant web applications using the latest frontend technologies.
-- **User-Centric Design:** Dedicated to crafting interfaces that are both visually appealing and user-friendly.
+## MY VALUES
+Clean code | Continuous learning | Collaboration
 
-##  Key Attributes
-- **Code Quality:** Strong advocate of clean, maintainable code following industry best practices.
-- **Continuous Learning:** Enthusiastic about staying up-to-date with evolving tech trends to integrate innovative solutions.
-- **Collaborative:** Adept at working within cross-functional teams to deliver high-quality projects.
-
-##  Open to Collaboration
-Passionate about collaborating with fellow developers on impactful projects. Open to sharing insights, tackling challenges, and contributing to a collective success.
+## LET'S BUILD SOMETHING
+I'm always excited to collaborate on impactful projects. Let's share ideas, tackle challenges, and create something amazing together!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samobeng14Dev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/samobeng14Dev) 
