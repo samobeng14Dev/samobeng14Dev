@@ -1,5 +1,5 @@
 ## ABOUT ME
-I'm a passionate full-stack developer with a love for building scalable web applications. With expertise in React, TypeScript, Python, and Django, I enjoy crafting seamless user experiences and solving complex problems.
+Full-Stack Developer with 2+ years of experience building secure, scalable web apps and internal tools. Skilled in Django, React, and CI/CD workflows, with a strong focus on clean code, privacy-first design, and process automation. I thrive in collaborative environments and enjoy crafting systems that are both robust and easy to maintain.
 
 ## WHAT I DO
 Frontend magic with React and TypeScript | Backend solutions with Python and Django Rest Framework
